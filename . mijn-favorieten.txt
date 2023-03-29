@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1, bijen
 2, lieveheersbeestjes
 3, dolfijnen
+=======
+1, lezen
+2, gamen
+3, wandelen
+>>>>>>> hobbies
